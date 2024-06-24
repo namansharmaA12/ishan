@@ -137,6 +137,9 @@
     justify-content: center;
     gap: 20px;
 }
+header.header a img {
+    width: 140px;
+}
 
 .logos img {
     max-width: 100px;
